@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "St.Paul's MTC Kizhakkenmuthoor",
+   "icon": "https://mbtskoudsalg.com/images/church-icon-png-4.png",
+   "version": "1.0.0",
+   "slug": "suj-slug",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.toobler.sujith"
+   },
+   "android": {
+     "package": "com.toobler.sujith"
+   }
+  }
+}
